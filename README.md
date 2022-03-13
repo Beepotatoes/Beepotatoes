@@ -6,7 +6,7 @@
 
  💌 You can also find ways to contact me at [Beepo.xyz](https://Beepo.xyz) or you can [Email me](mailto:Beepotatoes@gmail.com).
  
- 💾 I use **C#** and **HTML**
+ 💾 I use **C#** *(Barely)* and **HTML**
 
 <!---
 Beepotatoes/Beepotatoes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
