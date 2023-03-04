@@ -1,5 +1,4 @@
 # 👋 Hi, I’m Beepo / Beepotatoes 
-###### *(She / Her)*
 
 
  🌐 I have a website at [Beepo.xyz](https://Beepo.xyz).
